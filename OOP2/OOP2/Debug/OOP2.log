@@ -1,0 +1,5 @@
+﻿  OOP2.cpp
+D:\VStudio_Projects\OOP2\OOP2\OOP2.cpp(104,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VStudio_Projects\OOP2\OOP2\OOP2.cpp(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VStudio_Projects\OOP2\OOP2\OOP2.cpp(123,20): warning C4018: <: несоответствие типов со знаком и без знака
+  OOP2.vcxproj -> D:\VStudio_Projects\OOP2\Debug\OOP2.exe
