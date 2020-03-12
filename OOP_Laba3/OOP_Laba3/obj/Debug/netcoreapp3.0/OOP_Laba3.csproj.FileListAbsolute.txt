@@ -1,0 +1,11 @@
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\bin\Debug\netcoreapp3.0\OOP_Laba3.exe
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\bin\Debug\netcoreapp3.0\OOP_Laba3.deps.json
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\bin\Debug\netcoreapp3.0\OOP_Laba3.runtimeconfig.json
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\bin\Debug\netcoreapp3.0\OOP_Laba3.runtimeconfig.dev.json
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\bin\Debug\netcoreapp3.0\OOP_Laba3.dll
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\bin\Debug\netcoreapp3.0\OOP_Laba3.pdb
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\obj\Debug\netcoreapp3.0\OOP_Laba3.csprojAssemblyReference.cache
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\obj\Debug\netcoreapp3.0\OOP_Laba3.AssemblyInfoInputs.cache
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\obj\Debug\netcoreapp3.0\OOP_Laba3.AssemblyInfo.cs
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\obj\Debug\netcoreapp3.0\OOP_Laba3.dll
+D:\VStudio_Projects\OOP_Laba3\OOP_Laba3\obj\Debug\netcoreapp3.0\OOP_Laba3.pdb
