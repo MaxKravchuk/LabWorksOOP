@@ -8,3 +8,4 @@ D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.AssemblyInfoInputs.cache
 D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.AssemblyInfo.cs
 D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.dll
 D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.pdb
+D:\VSPrj\OOP4cpp\OOP4cs\obj\Debug\netcoreapp3.1\OOP4cs.csprojAssemblyReference.cache

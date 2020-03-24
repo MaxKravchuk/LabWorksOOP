@@ -5,15 +5,15 @@ using namespace std;
 
 class Romb
 {
-    int a = 2;
+    //int a = 2;
 private:
     double x1, y1;
     double x2, y2;
     double x3, y3;
     double x4, y4;
 public:
-    Romb Mult(Romb temp);
-    Romb Min(Romb temp);
+    Romb operator*(int a);
+    Romb operator-(Romb temp);
     Romb() //конструктор за замовчуванням
     {
         x1 = 0; y1 = 0;
@@ -59,17 +59,17 @@ public:
     }
 };
 
-Romb Romb::Mult(Romb left) //перегрузка оператора множення
+Romb Romb::operator*(int a) //перегрузка оператора множення
 {
     Romb temp;
-    temp.x1 = left.x1 * a; temp.y1 = left.y1 * a;
-    temp.x2 = left.x2 * a; temp.y2 = left.y2 * a;
-    temp.x3 = left.x3 * a; temp.y3 = left.y3 * a;
-    temp.x4 = left.x4 * a; temp.y4 = left.y4 * a;
+    temp.x1 = x1 * a; temp.y1 = y1 * a;
+    temp.x2 = x2 * a; temp.y2 = y2 * a;
+    temp.x3 = x3 * a; temp.y3 = y3 * a;
+    temp.x4 = x4 * a; temp.y4 = y4 * a;
     return temp;
 }
 
-Romb Romb::Min(Romb left) //перегрузка оператора віднімання
+Romb Romb::operator-(Romb left) //перегрузка оператора віднімання
 {
     Romb temp;
     temp.x1 = left.x1 - x1; temp.y1 = left.y1 - y1;
@@ -107,7 +107,7 @@ int main()
     cout << endl;
 
     cout << "Altered P3";
-    P3 = P3.Mult(P3); //збільшення P3 у 2 рази
+    P3 = P3*2; //збільшення P3 у 2 рази
     P3.Out(P3);
     double sP3a = P3.Space(P3); //знаходження площи
     double pP3a = P3.Perimetr(P3); //знаходження периметру
@@ -115,7 +115,7 @@ int main()
     cout << endl;
 
     cout << "Altered P1";
-    P1 = P2.Min(P3); //віднімення від P3 P2
+    P1 = P2-P3; //віднімення від P3 P2
     P1.Out(P1);
     double sP1a = P1.Space(P1); //знаходження площи
     double pP1a = P1.Perimetr(P1); //знаходження периметру
