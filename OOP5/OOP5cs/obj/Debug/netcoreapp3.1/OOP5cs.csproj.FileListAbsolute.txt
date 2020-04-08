@@ -9,3 +9,5 @@ D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.AssemblyInfoInputs.cache
 D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.AssemblyInfo.cs
 D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.dll
 D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.pdb
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.csproj.CoreCompileInputs.cache
+D:\VSPrj\OOP5\OOP5cs\obj\Debug\netcoreapp3.1\OOP5cs.genruntimeconfig.cache

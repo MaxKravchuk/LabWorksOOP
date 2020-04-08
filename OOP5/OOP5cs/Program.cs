@@ -15,7 +15,7 @@ namespace OOP5cs
             _xS = xS; _yS = yS;
             _xE = xE; _yE = yE;
         }
-        public double XS //звертання до приватних полей
+        public double XS //звертання до приватних полей - властивість
         {
             get { return _xS; }
             set { _xS = value; }
@@ -48,11 +48,7 @@ namespace OOP5cs
     }
     class Section : Lines //Похідний клас
     {
-        public Section(double xS, double yS, double xE, double yE) :base( xS, yS, xE, yE) //конструктор з параметром
-        {
-            XS = xS; YS = yS;
-            XE = xE; YE = yE;
-        }
+        public Section(double xS, double yS, double xE, double yE) :base( xS, yS, xE, yE) { } //конструктор з параметром
         public void Decrease(Section S, double a) // метод зменшяння відрізка на 5 одиниць
         {
             double NLen = S.Len(S) - a;
